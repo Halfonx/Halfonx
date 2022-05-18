@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Halfonx, I'm 26 and I live in France
+- 👋 Hi, I’m Jeremy, I'm 26 and I live in France
 - 👀 I’m interested in Front-End Web Development 
 - 🌱 I’m currently learning JavaScript
 
