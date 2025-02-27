@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremy, I'm 27 and I live in France
+- 👋 Hi, I’m Jeremy, I'm 28 and I live in France
 - I’m interested in Front-End Web Development, and I enjoy learning new things about it. I have some side project ideas that I would love to develop to practice my skills. I'm basically learning on my own.
 
 - I also like UX and UI design
